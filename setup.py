@@ -8,12 +8,12 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup(
     name="nifty-50-predictor",
     version="1.0.0",
-    author="Your Name",
-    author_email="your.email@example.com",
+    author="Sanjo Joy",
+    author_email="sanjojoys@gmail.com",
     description="Ensemble-based forecasting system for Nifty 50 index using ARIMA, GARCH, and Machine Learning",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/nifty-50-predictor",
+    url="https://github.com/sanjojoys/nifty-50-predictor",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
